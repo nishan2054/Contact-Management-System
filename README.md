@@ -1,1 +1,1 @@
-This program shows the string class, its customization using methods and functions available. 
+This program shows the string class, its customization using methods and functions available in C++. 
